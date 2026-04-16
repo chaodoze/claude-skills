@@ -16,6 +16,7 @@ A collection of Claude skills I've made. Each skill is a folder with a `SKILL.md
 |-------|--------------|
 | [hunch](hunch/) | A curious thinking partner for small personal experiments. |
 | [experiment-miner](experiment-miner/) | Mines recent conversations for latent experiments and tracks them in a spreadsheet. |
+| [add-skill](add-skill/) | One-line pipeline to add, build, and release a new skill in this repo. |
 
 ## Package a skill locally
 
