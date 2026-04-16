@@ -15,6 +15,7 @@ A collection of Claude skills I've made. Each skill is a folder with a `SKILL.md
 | Skill | What it does |
 |-------|--------------|
 | [hunch](hunch/) | A curious thinking partner for small personal experiments. |
+| [experiment-miner](experiment-miner/) | Mines recent conversations for latent experiments and tracks them in a spreadsheet. |
 
 ## Package a skill locally
 
